@@ -6,11 +6,11 @@ _Movicss is an innovative web application project developed as a requirement for
 _The web application features a responsive design, making it accessible across devices. Users can seamlessly navigate through different algorithm categories, access detailed explanations, and manipulate parameters to observe algorithmic behavior in real-time._
 
 ### Homa Page
-_When launching the app, users will be directed to the home page, where their current location is prominently displayed. From this point, they are provided with the option to generate an order and set the maximum weight limit for their delivery preferences_
+_When launching the app, users will be directed to the home page, where their current location is prominently displayed. From this point, they are provided with the option to generate an order and set the maximum weight limit for their delivery preferences._
 ![HomePage](https://github.com/LuisBulatao/2BSCS-1/assets/115807743/179d2dc9-a489-4e33-b840-9b4c131e8d76)
 
 ### KnapSack
-_After generating the order and setting the maximum weight, users will have the ability to view crucial details such as the address, distance, and knapsack information linked with the order they've generated_
+_Once users have gemerated the order and specified the maximum weight, they can access essential information like the address, distance, and knapsack details associated with the generated order._
 ![KnapSack](https://github.com/LuisBulatao/2BSCS-1/assets/115807743/c2339583-4983-4bfb-86e5-d63cbfb87ade)
 
 ### Travelling Salesman Problem
