@@ -22,7 +22,10 @@
 ![SelectionSort](https://github.com/LuisBulatao/2BSCS-1/assets/115807743/a8d49b55-88c8-4d79-8f33-697f0b968eb9)
 
 ### String Matching
-**_Lastly, the users can _**
+**_Finally, in this section, users have the capability to search for addresses. Upon entering their desired address, the system will display results that closely match the user's input, facilitating ease of navigation and ensuring accurate delivery destinations_**
+![StringMatching](https://github.com/LuisBulatao/2BSCS-1/assets/115807743/a0148193-b8bf-461c-a779-9e3e05b9bb28)
+
+
 
 
 
