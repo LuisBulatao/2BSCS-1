@@ -18,12 +18,16 @@
 ![TSP](https://github.com/LuisBulatao/2BSCS-1/assets/115807743/9ecb2f15-85d0-4363-8b6c-8297247bf370)
 
 ### Selection Sort
-**_Next, the sorting of the deliveries that made by users_**
+**_Next, the sorting list displays the order number, address, and delivery date for user convenience. This organized presentation enables users to easily manage their orders, ensuring efficient tracking and timely delivery_**  
 ![SelectionSort](https://github.com/LuisBulatao/2BSCS-1/assets/115807743/a8d49b55-88c8-4d79-8f33-697f0b968eb9)
 
 ### String Matching
 **_Finally, in this section, users have the capability to search for addresses. Upon entering their desired address, the system will display results that closely match the user's input, facilitating ease of navigation and ensuring accurate delivery destinations_**
 ![StringMatching](https://github.com/LuisBulatao/2BSCS-1/assets/115807743/a0148193-b8bf-461c-a779-9e3e05b9bb28)
+
+
+
+
 
 
 
