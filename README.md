@@ -26,6 +26,23 @@
 ![StringMatching](https://github.com/LuisBulatao/2BSCS-1/assets/115807743/a0148193-b8bf-461c-a779-9e3e05b9bb28)
 
 
+# **Project Members**
+### Luis Joshua Bulatao 
+ * Group Leader
+ * Contributions: KnapSack, Selection Sort
+ * Language: Java
+### John Victor Gonzales
+  * Lead Programmeer
+  * Contributions: KnapSack, Selection Sort, TSP, String Matching
+  * Language: JavaScript, TypseScript 
+### Arvyx Ranos
+  * Lead Programmer
+  * Contributions: KnapSack, Selection Sort, TSP, String Matching
+  * Language JavaScript, TypeScript
+
+
+
+
 
 
 
